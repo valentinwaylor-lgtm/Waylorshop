@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Первая работа",
+      ...
+    },
+    {
+      "id": 2,
+      "title": "Новое платье",
+      "shortDescription": "Летнее платье из хлопка",
+      "fullDescription": "Подробное описание платья, ткань, размеры и т.д.",
+      "mainImage": "images/dress1.jpg",
+      "galleryImages": [
+        "images/dress1.jpg",
+        "images/dress1-detail.jpg"
+      ]
+    }
+  ]
+}
